@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.369,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\File1.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\cGracz.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\cGracz.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\cPlansza.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\bingis\Desktop\KiK\KIK nowe\Project1.cbproj=C:\Users\bingis\Desktop\KiK\KIK nowe\KiK.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.932,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\cPlansza.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\bingis\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
